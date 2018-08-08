@@ -1,0 +1,18 @@
+.btn.btn-primary {
+  background: blue;
+}
+
+.btn {
+  background: grey;
+}
+
+.unicorn,
+li {
+  background-color: blueviolet;
+}
+
+.people,
+.colors,
+li {
+  background-color: cadetblue;
+}
